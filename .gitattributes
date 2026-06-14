@@ -1,0 +1,5 @@
+# ClickOnce 部署檔案必須保持原始位元組，不能轉換換行符號
+*.deploy      binary
+*.manifest    binary
+*.application binary
+setup.exe     binary
